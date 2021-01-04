@@ -1,3 +1,4 @@
 # BMI-Calculator 
 
-https://user-images.githubusercontent.com/33172029/103528162-7be55a00-4ea9-11eb-9114-7ab383767d4d.mov
+[ezgif com-optimize](https://user-images.githubusercontent.com/33172029/103528616-468d3c00-4eaa-11eb-8743-cdae84f18055.gif)
+
